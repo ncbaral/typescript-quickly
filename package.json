@@ -1,0 +1,26 @@
+{
+  "name": "typescript-quickly",
+  "version": "1.0.0",
+  "description": "exercise from typescript quickly book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncbaral/typescript-quickly.git"
+  },
+  "keywords": [
+    "typescript",
+    "javascript"
+  ],
+  "author": "ncbaral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ncbaral/typescript-quickly/issues"
+  },
+  "homepage": "https://github.com/ncbaral/typescript-quickly#readme",
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
+}
