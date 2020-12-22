@@ -13,6 +13,6 @@ function createPizza(name: string, sizes: string[]) {
     }
   }
   
-let pizzas = createPizza('Pepperoni', ['small', 'medium']);
+let pizzas = createPizza('Pepperoni', ['small', 'medium', 'large']);
 
 export default Pizza;
