@@ -16,3 +16,5 @@ customerId = 123; // compile-time error
 TypeScript follows the latest specifications of ECMAScript and adds to them types,
 interfaces, decorators, class member variables (fields), generics, enums, the keywords
 public, protected, and private, and more.
+
+Few more line for testing
